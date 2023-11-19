@@ -1,0 +1,27 @@
+h1 {
+    color: pink;
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    color: rgb(103, 64, 64);
+    text-align:center;
+}
+p {
+    display: block;
+    color: rgb(98, 8, 8);
+    font-size: 20px;
+}
+li {
+    margin: 10px 50px 20px;
+    color: rgb(23, 23, 83);
+}
+.image {
+    height: 300px;
+    width: 300px;
+}
+.food {
+    margin: 20px;
+    color: honeydew;
+    text-align: center;
+}
